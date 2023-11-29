@@ -22,25 +22,20 @@ Kaggle Dataset brazilian-ecommerce [(Link Download di Google Drive)](https://dri
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/n0trey/Submission_Mala.git
+   git clone https://github.com/n0trey/Submission_Mala
    ```
-2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle Api:
-   dengan cara sebagai berikut :
-   
-   [Kaggle Installation and API configuration](https://github.com/Kaggle/kaggle-api)
-   
-4. Lakukan Instalasi Library Dengan Perintah Berikut:
+2. Pastikan Anda telah menyiapkan lingkungan Python yang sesuai serta menginstal pustaka-pustaka yang diperlukan untuk menjalankan proyek ini. Anda dapat mengatur lingkungan Python Anda dan menginstal pustaka-pustaka yang dibutuhkan dengan menjalankan perintah berikut:
 
     ```shell
-    pip install streamlit numpy seaborn pandas matplotlib zipfile unidecode
-    
+    pip install streamlit
+    pip install -r requirements.txt
     ```
 
 ## Penggunaan
-1. Melakukan Akses dan Kompilasi(Local):
+1. Masuk ke directory Local:
 
     ```shell
-    cd streamlit
+    cd Submission_Mala/dashboard/
     streamlit run meen.py
     ```
 
