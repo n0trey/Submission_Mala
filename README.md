@@ -3,19 +3,18 @@
 
 ## Project Data Analytics
 
- Repositori yang berupa projek analis data ,yang dibuat dengan menggunakan **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
-
+ Repositori yang berupa projek analis data ,yang dibuat dengan menggunakan **Streamlit**
 ## Deskripsi
 
 Proyek ini berupa analis data terhadap **Brazilian E-Commerce** yang divisualisasikan secara cloud melalui sebuah website.Tujuan utamanya yakni untuk memberikan insight dan pemahaman mengenai informasi data
 
 ## Sumber Data
-Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
+Kaggle Dataset brazilian-ecommerce [(Link Download di Google Drive)](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view)
 
 ## Struktur Direktori
 
 - **/dataset**: Merupakan Direktori Projek yang terdiri atas dataset yang berformat .csv
-- **/streamlit**: Terdiri atas file main.py yang merupakan kode utama dalam pembuatan visualisasi website
+- **/streamlit**: Terdiri atas file meen.py yang merupakan kode utama dalam pembuatan visualisasi website
 - **notebook.ipynb**: File yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
@@ -23,7 +22,7 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/mhaidar10/Submission_Analisis_Data_Python.git
+   git clone https://github.com/n0trey/Submission_Mala.git
    ```
 2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle Api:
    dengan cara sebagai berikut :
@@ -42,10 +41,8 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
 
     ```shell
     cd streamlit
-    streamlit run main.py
+    streamlit run meen.py
     ```
-2. Melakukan Akses secara Cloud (online):
-   [Project Data Analytics](https://mhaidar-project-data-analytics.streamlit.app/)
 
 
 
