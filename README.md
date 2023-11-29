@@ -9,7 +9,7 @@
 Proyek ini berupa analis data terhadap **Brazilian E-Commerce** yang divisualisasikan secara cloud melalui sebuah website.Tujuan utamanya yakni untuk memberikan insight dan pemahaman mengenai informasi data
 
 ## Sumber Data
-Kaggle Dataset brazilian-ecommerce [(Link Download di Google Drive)](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view)
+Dataset brazilian-ecommerce [(Link Download di Google Drive)](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view)
 
 ## Struktur Direktori
 
