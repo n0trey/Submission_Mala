@@ -22,7 +22,7 @@ Dataset brazilian-ecommerce [(Link Download di Google Drive)](https://drive.goog
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/n0trey/Submission_Mala
+   git clone https://github.com/n0trey/Submission_Mala.git
    ```
 2. Pastikan Anda telah menyiapkan lingkungan Python yang sesuai serta menginstal pustaka-pustaka yang diperlukan untuk menjalankan proyek ini. Anda dapat mengatur lingkungan Python Anda dan menginstal pustaka-pustaka yang dibutuhkan dengan menjalankan perintah berikut:
 
