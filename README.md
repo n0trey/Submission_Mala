@@ -3,7 +3,7 @@
 
 ## Project Data Analytics
 
- Repositori yang berupa projek analis data ,yang dibuat dengan menggunakan **Streamlit**
+ Repositori yang berupa projek analis data yang dibuat dengan menggunakan **Streamlit**
 ## Deskripsi
 
 Proyek ini berupa analis data terhadap **Brazilian E-Commerce** yang divisualisasikan secara cloud melalui sebuah website.Tujuan utamanya yakni untuk memberikan insight dan pemahaman mengenai informasi data
